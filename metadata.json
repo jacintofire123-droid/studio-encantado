@@ -1,0 +1,6 @@
+{
+  "name": "Recadinho Mágico - Vídeos Personalizados de Personagens para Crianças",
+  "description": "Surpreenda seu filho com recadinhos em vídeo personalizados dos seus heróis e princesas favoritos em minutos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
